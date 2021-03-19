@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhj1993)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi!+I%27m+Hyejin&fontColor=fff&fontSize=50&color=000)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=uhj1993&show_icons=true&theme=radical&locale=kr" />
+    <br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhj1993&locale=kr&hide=Hack&layout=compact" />
+</p>
+
 
 
 <!--
