@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi!+I%27m+Hyejin&fontColor=fff&fontSize=50&color=000)
 
 <p align="center">
