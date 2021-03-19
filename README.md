@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hi!+I%27m+Hyejin&fontColor=fff&fontSize=50&color=000)
 <h1 align="center">😊반갑습니다😊</h1>
 <br>
-<h3 align="center">📝꾸준히 기록하고 발전하고 성장합니다📝</h3>
+---
+<h2 align="center">📝꾸준히 기록하고 발전하고 성장합니다📝</h2>
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=uhj1993&show_icons=true&theme=radical" />
 </p>
 <br />
-<h3 align="center">📚제가 자주 쓰는 언어를 소개할게요📚</h3>
+---
+<h2 align="center">📚제가 자주 쓰는 언어를 소개할게요📚</h2>
 <br />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhj1993&hide=Hack&layout=compact" />
@@ -19,7 +21,8 @@
   <img src="https://img.shields.io/badge/PHP-323330?style=flat-square&logo=PHP&logoColor=777BB4" height="24" />
 </p>
 <br />
-<h3 align="center">📝현재 공부하고 있는 언어는요📝</h3>
+---
+<h2 align="center">📝현재 공부하고 있는 언어는요📝</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-323330?style=flat-square&logo=REACT&logoColor=#61DAFB" height="24" />
 </p>
